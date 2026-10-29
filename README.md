@@ -45,7 +45,7 @@ agriculture-food-security-analysis/
 ## How to run
 
 ```bash
-git clone https://github.com/<your-username>/agriculture-food-security-analysis.git
+git clone https://github.com/Patrick001-DA/agriculture-food-security-analysis.git
 cd agriculture-food-security-analysis
 pip install -r requirements.txt
 python agriculture.py
